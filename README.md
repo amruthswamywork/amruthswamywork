@@ -35,7 +35,7 @@ CGPA :8.82 (DECEMBER)
 
 ---
 
-## ☁️ Cloud & Infrastructure (AWS)
+## Cloud & Infrastructure (AWS)
 
 - EC2, S3, IAM, VPC, ALB, Route53, ECR
 - Auto Scaling & Load Balancing
@@ -132,13 +132,6 @@ CGPA :8.82 (DECEMBER)
 
 ---
 
-##  Education
-
-Master of Computer Applications (MCA)  
-Bangalore Institute of Technology  
-CGPA :8.82 (DECEMBER)
-
----
 
 ##  Currently Exploring
 
