@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Amruth Swamy  
+#  Hi, I'm Amruth Swamy C P 
 ### Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | SRE-Oriented Engineer
 
 ---
 
-## 🚀 Engineering Profile
+#  Profile
 
 I am a Cloud & DevOps Engineer with hands-on production-focused experience in building scalable, automated, and reliable cloud infrastructure on AWS.
 
@@ -19,7 +19,13 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🧠 SRE Mindset
+##  Education
+
+Master of Computer Applications (MCA)  
+Bangalore Institute of Technology  
+CGPA :8.82 (DECEMBER)
+
+#SRE Mindset
 
 - Infrastructure as Code (No manual provisioning)
 - Proactive monitoring over reactive fixing
@@ -39,7 +45,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🏗️ Infrastructure as Code
+## Infrastructure as Code
 
 - Terraform (Modular architecture)
 - Remote Backend using S3
@@ -49,7 +55,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 📦 Containers & Orchestration
+## Containers & Orchestration
 
 - Docker (Optimized builds, container networking)
 - Kubernetes (Deployments, Services, Rolling Updates)
@@ -58,7 +64,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🔁 CI/CD & Automation
+##  CI/CD & Automation
 
 - Jenkins (Pipeline as Code)
 - GitHub Actions
@@ -68,7 +74,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 📊 Monitoring, Logging & Observability
+##  Monitoring, Logging & Observability
 
 - Prometheus (Metrics collection)
 - Grafana (Dashboards & Visualization)
@@ -78,7 +84,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🔐 Web & Reverse Proxy
+##  Web & Reverse Proxy
 
 - Nginx configuration
 - SSL setup & HTTPS enforcement
@@ -87,7 +93,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🔥 Production Exposure
+##  Production Exposure
 
 - Handled deployment failures & debugging
 - Troubleshot Linux server issues
@@ -97,7 +103,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🛠️ Featured Projects
+##  Featured Projects
 
 ### 🔹 CloudCart Mart – Production-Ready 3-Tier AWS Deployment
 - Secure VPC architecture (Public/Private subnets)
@@ -107,7 +113,7 @@ I design infrastructure with reliability, observability, and automation at the c
 - Kubernetes deployment with rolling updates
 - Monitoring integration using Prometheus & CloudWatch
 
-### 🔹 Network Flow Intrusion Detection System
+###  Network Flow Intrusion Detection System
 - Deployed ML-based system on AWS EC2
 - Containerized services with Docker
 - Orchestrated using Kubernetes
@@ -116,7 +122,7 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🐧 Linux & System Skills
+##  Linux & System Skills
 
 - Ubuntu / CentOS administration
 - Process management & monitoring
@@ -126,14 +132,15 @@ I design infrastructure with reliability, observability, and automation at the c
 
 ---
 
-## 🎓 Education
+##  Education
 
 Master of Computer Applications (MCA)  
 Bangalore Institute of Technology  
+CGPA :8.82 (DECEMBER)
 
 ---
 
-## 📈 Currently Exploring
+##  Currently Exploring
 
 - Advanced Kubernetes internals
 - SRE SLIs / SLOs / Error Budgets
@@ -142,11 +149,11 @@ Bangalore Institute of Technology
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
-📧 amruthswamy11@gmail.com  
-🔗 LinkedIn: linkedin.com/in/amruthswamycp079  
-💻 GitHub: github.com/amruthswamywork  
+amruthswamy11@gmail.com  
+ LinkedIn: linkedin.com/in/amruthswamycp079  
+ GitHub: github.com/amruthswamywork  
 
 ---
 
