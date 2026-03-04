@@ -53,17 +53,17 @@ My focus is on **automation, infrastructure as code, observability, and deployme
 
  Connect With Me
 
-Email
-amruthswamy11@gmail.com
+Email :
+ * amruthswamy11@gmail.com
 
-inkedIn
-linkedin.com/in/amruthswamycp079
+inkedIn :
+ * linkedin.com/in/amruthswamycp079
 
- GitHub
-github.com/amruthswamywork
+ GitHub :
+* github.com/amruthswamywork
 
-portfolio
-https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
+portfolio :
+* https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
 
 
 
