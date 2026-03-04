@@ -57,10 +57,12 @@ Email :
  * amruthswamy11@gmail.com
 
 inkedIn :
- * linkedin.com/in/amruthswamycp079
+ * https://www.linkedin.com/in/amruthswamycp079/
+
 
  GitHub :
-* github.com/amruthswamywork
+* https://github.com/amruthswamywork
+
 
 portfolio :
 * https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
