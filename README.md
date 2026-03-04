@@ -39,10 +39,16 @@ My focus is on **automation, infrastructure as code, observability, and deployme
 ---
 
 # 🧠 SRE Mindset
-
-```diff
+diff
 + Infrastructure as Code
 + Automation-first engineering
 + Failure aware architecture
 + Proactive monitoring
 + Continuous reliability improvement
+
+
+
+### 2️⃣ DevOps Infinity Loop Diagram
+
+Shows **Plan → Code → Build → Test → Release → Deploy → Monitor**
+
