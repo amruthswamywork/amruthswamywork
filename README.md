@@ -1,176 +1,48 @@
-<h1 align="center">Hi 👋, I'm Amruth Swamy C P</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | SRE Mindset</h3>
-
 <p align="center">
-Building scalable cloud infrastructure, automated CI/CD pipelines, and reliable distributed systems.
+
+# 👋 Hi, I'm **Amruth Swamy C P**
+
+### ☁️ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | SRE-Oriented Engineer
+
 </p>
 
 ---
 
-# 👨‍💻 About Me : 
-https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/ 
+<p align="center">
 
-I am a **Cloud & DevOps Engineer** passionate about building **scalable, automated, and reliable cloud systems**.
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
+![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux)
 
-My focus is on **Infrastructure as Code, CI/CD automation, container orchestration, and system observability** while applying **Site Reliability Engineering principles**.
+</p>
 
-🔹 Reduced deployment time by **65% through CI/CD automation**  
-🔹 Designed **secure AWS 3-tier architecture**  
-🔹 Built **Terraform infrastructure with S3 backend + DynamoDB locking**  
-🔹 Deployed **Dockerized applications on Kubernetes clusters**  
-🔹 Implemented **monitoring using Prometheus, Grafana & CloudWatch**  
-🔹 Implemented **Blue-Green, Rolling & Canary deployments**
+---
+
+# 🚀 About Me
+
+I am a **Cloud & DevOps Engineer** passionate about designing **scalable, automated and reliable cloud infrastructure**.
+
+My focus is on **automation, infrastructure as code, observability, and deployment reliability**, following **modern DevOps and Site Reliability Engineering practices**.
+
+### 🔥 Key Highlights
+
+✔ Reduced deployment time **65% using CI/CD automation**  
+✔ Designed **secure AWS 3-tier architecture**  
+✔ Built **Terraform infrastructure with remote backend**  
+✔ Deployed **Docker containers to Kubernetes clusters**  
+✔ Implemented **Prometheus + Grafana monitoring**  
+✔ Implemented **Blue-Green & Canary deployments**
 
 ---
 
 # 🧠 SRE Mindset
 
-- Infrastructure as Code (IaC)
-- Automation-first approach
-- Proactive monitoring
-- Failure-aware system design
-- Continuous reliability improvement
-
----
-
-# ☁️ Cloud Architecture (AWS)
-
-### 3-Tier Infrastructure Design
-
-```mermaid
-flowchart TD
-
-Users --> Route53
-Route53 --> ALB
-
-ALB --> WebServer1
-ALB --> WebServer2
-
-WebServer1 --> AppServer1
-WebServer2 --> AppServer2
-
-AppServer1 --> RDS
-AppServer2 --> RDS
-
-subgraph Public Subnet
-ALB
-WebServer1
-WebServer2
-end
-
-subgraph Private Subnet
-AppServer1
-AppServer2
-RDS
-end
-
-
-DevOps CI/CD Pipeline
-<img width="3044" height="327" alt="mermaid-diagram (5)" src="https://github.com/user-attachments/assets/e77c253b-d5c5-43e2-991c-f3ce41f4ee3a" />
-Pipeline capabilities:
-
-Automated build → test → deploy
-
-Docker container build & push
-
-Kubernetes rolling updates
-
-Zero-downtime deployment strategy
-
-
-🛠 Tech Stack
-Cloud
-
-AWS
-EC2 • S3 • IAM • VPC • ALB • Route53 • ECR
-
-Infrastructure as Code
-
-Terraform
-S3 Backend • DynamoDB State Locking • Modular Infrastructure
-
-Containers & Orchestration
-
-Docker
-Kubernetes (Deployments, Services, Scaling)
-
-CI/CD
-
-Jenkins
-GitHub Actions
-
-Monitoring & Observability
-
-Prometheus
-Grafana
-CloudWatch
-
-Web & Reverse Proxy
-
-Nginx
-Apache
-
-Operating Systems
-
-Linux (Ubuntu / CentOS)
-
-Application
-   ↓
-Prometheus → Metrics Collection
-   ↓
-Grafana → Dashboards
-   ↓
-CloudWatch → Alerts & Logs
-
-Capabilities:
-
-Real-time monitoring
-
-Metrics visualization
-
-Alert configuration
-
-Log troubleshooting
-🔐 Network Flow Intrusion Detection System
-
-Cloud-based ML security system.
-
-Key highlights:
-
-Deployed on AWS EC2
-
-Docker containerized workloads
-
-Kubernetes orchestration
-
-Centralized monitoring
-
-Improved detection accuracy by 18%
-
-🐧 Linux & System Skills
-
-Linux server administration
-
-Shell scripting automation
-
-Process monitoring
-
-System resource analysis
-
-TCP/IP networking basics
-
-Log debugging
-
-📫 Connect With Me
-
-📧 Email
-amruthswamy11@gmail.com
-
-💼 LinkedIn
-linkedin.com/in/amruthswamycp079
-
-💻 GitHub
-github.com/amruthswamywork
-
-
-
+```diff
++ Infrastructure as Code
++ Automation-first engineering
++ Failure aware architecture
++ Proactive monitoring
++ Continuous reliability improvement
