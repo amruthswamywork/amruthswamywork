@@ -1,8 +1,8 @@
 <p align="center">
 
-# 👋 Hi, I'm **Amruth Swamy C P**
+# Hi, I'm **Amruth Swamy C P**
 
-### ☁️ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | SRE-Oriented Engineer
+###  Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | SRE-Oriented Engineer
 
 </p>
 
@@ -27,7 +27,7 @@ I am a **Cloud & DevOps Engineer** passionate about designing **scalable, automa
 
 My focus is on **automation, infrastructure as code, observability, and deployment reliability**, following **modern DevOps and Site Reliability Engineering practices**.
 
-### 🔥 Key Highlights
+### Key Highlights
 
 ✔ Reduced deployment time **65% using CI/CD automation**  
 ✔ Designed **secure AWS 3-tier architecture**  
@@ -39,7 +39,6 @@ My focus is on **automation, infrastructure as code, observability, and deployme
 ---
 
 # 🧠 SRE Mindset
-diff
 + Infrastructure as Code
 + Automation-first engineering
 + Failure aware architecture
