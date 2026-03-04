@@ -38,7 +38,7 @@ My focus is on **automation, infrastructure as code, observability, and deployme
 
 ---
 
-# 🧠 SRE Mindset
+#  SRE Mindset
 + Infrastructure as Code
 + Automation-first engineering
 + Failure aware architecture
