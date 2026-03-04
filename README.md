@@ -21,7 +21,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I am a **Cloud & DevOps Engineer** passionate about designing **scalable, automated and reliable cloud infrastructure**.
 
@@ -47,7 +47,23 @@ My focus is on **automation, infrastructure as code, observability, and deployme
 
 
 
-### 2️⃣ DevOps Infinity Loop Diagram
+###  DevOps Automation Loop 
 
-Shows **Plan → Code → Build → Test → Release → Deploy → Monitor**
+**Plan → Code → Build → Test → Release → Deploy → Monitor**
+
+ Connect With Me
+
+Email
+amruthswamy11@gmail.com
+
+inkedIn
+linkedin.com/in/amruthswamycp079
+
+ GitHub
+github.com/amruthswamywork
+
+portfolio
+https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
+
+
 
