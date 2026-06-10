@@ -237,9 +237,7 @@ https://github.com/amruthswamywork
 
 ### 🌐 Portfolio
 
-https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
-
----
+ https://amruthswamywork.github.io/Amruth_swamy-DevOps-DevSecOps-portfolio/
 
 <div align="center">
 
