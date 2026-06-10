@@ -1,71 +1,250 @@
-<p align="center">
+<div align="center">
 
-# Hi, I'm **Amruth Swamy C P**
+# 👋 Hi, I'm Amruth Swamy C P
 
-### Cloud , DevOps & DevSecOps Engineer | AWS | Kubernetes | Terraform | SRE-Oriented Engineer
+### ☁️ Cloud Engineer | ⚙️ DevOps Engineer | 🔐 DevSecOps Engineer | 🚀 SRE Enthusiast
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=AWS+Cloud+Engineer;DevOps+%26+DevSecOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Building+Reliable+Cloud+Infrastructure;Infrastructure+as+Code+Advocate" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Cloud & DevOps Engineer passionate about building scalable, secure, and highly available cloud infrastructure.
+
+My work focuses on:
+
+* ☁️ AWS Cloud Architecture
+* ⚙️ CI/CD Automation
+* 🏗 Infrastructure as Code (Terraform)
+* 🐳 Containerization & Kubernetes
+* 🔐 DevSecOps Practices
+* 📊 Monitoring & Observability
+* 🚀 Site Reliability Engineering (SRE)
+
+I enjoy transforming manual processes into automated workflows and designing systems that are secure, scalable, and production-ready.
+
+---
+
+## 🏆 Professional Highlights
+
+✅ Built secure AWS multi-tier architectures
+
+✅ Automated infrastructure provisioning using Terraform
+
+✅ Designed CI/CD pipelines using Jenkins, CodePipeline & CodeBuild
+
+✅ Deployed applications using Docker & Kubernetes
+
+✅ Implemented Prometheus + Grafana monitoring stacks
+
+✅ Applied DevSecOps best practices using IAM, KMS & Secrets Manager
+
+✅ Hands-on with Blue-Green & Canary Deployments
+
+✅ Experience with CloudWatch monitoring & alerting
+
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
+### AWS Services
+
+EC2 • IAM • VPC • Route53 • CloudFront • S3 • EBS • Auto Scaling • Load Balancer • CloudWatch • CloudTrail • DynamoDB • Lambda • API Gateway • SNS • EventBridge • KMS • Secrets Manager • Aurora RDS • Kinesis • CodeCommit • CodeBuild • CodeDeploy • CodePipeline
+
 ---
 
-<p align="center">
+## ⚙️ DevOps
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
-![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux)
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,bash,linux,python" />
 </p>
 
----
-
-#  About Me
-
-I am a ** DevOps Engineer** passionate about designing **scalable, automated and reliable cloud infrastructure**.
-
-My focus is on **automation, infrastructure as code, observability, and deployment reliability**, following **modern DevOps and Site Reliability Engineering practices**.
-
-### Key Highlights
-
-✔ Reduced deployment time **65% using CI/CD automation**  
-✔ Designed **secure AWS 3-tier architecture**  
-✔ Built **Terraform infrastructure with remote backend**  
-✔ Deployed **Docker containers to Kubernetes clusters**  
-✔ Implemented **Prometheus + Grafana monitoring**  
-✔ Implemented **Blue-Green & Canary deployments**
+* Docker
+* Kubernetes
+* Jenkins
+* Git & GitHub
+* Linux Administration
+* Shell Scripting
+* Python Automation
 
 ---
 
-#  SRE Mindset
-+ Infrastructure as Code
-+ Automation-first engineering
-+ Failure aware architecture
-+ Proactive monitoring
-+ Continuous reliability improvement
+## 🏗 Infrastructure as Code
 
+<p>
+<img src="https://skillicons.dev/icons?i=terraform" />
+</p>
 
+* Terraform
+* Ansible
+* Infrastructure Automation
+* Configuration Management
 
-###  DevOps Automation Loop 
+---
 
-**Plan → Code → Build → Test → Release → Deploy → Monitor**
+## 🔐 DevSecOps
 
- Connect With Me
+* IAM Policies
+* AWS KMS
+* AWS Secrets Manager
+* Secure CI/CD Pipelines
+* Role-Based Access Control (RBAC)
+* Security Groups & Network Security
+* Cloud Security Best Practices
 
-Email :
- * amruthswamy11@gmail.com
+---
 
-inkedIn :
- * https://www.linkedin.com/in/amruthswamycp079/
+## 📊 Monitoring & Observability
 
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
 
- GitHub :
-* https://github.com/amruthswamywork
+* Prometheus
+* Grafana
+* AWS CloudWatch
+* Log Monitoring
+* Alerting
+* Metrics & Dashboards
 
+---
 
-portfolio :
-* https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
+# 🔄 DevOps Lifecycle
 
+```text
+Plan → Code → Build → Test → Release
+                ↓
+Monitor ← Deploy ← Operate
+```
 
+---
 
+# 🏗 Featured Projects
+
+## 🚀 AWS High Availability Infrastructure
+
+* Application Load Balancer
+* Auto Scaling Groups
+* CloudWatch Scaling Policies
+* Terraform Automation
+
+### Technologies
+
+AWS • Terraform • CloudWatch • ALB • Auto Scaling
+
+---
+
+## 🛒 CloudCart Mart
+
+Enterprise E-Commerce Deployment on AWS
+
+### Features
+
+* 3-Tier Architecture
+* Dockerized Services
+* Kubernetes Deployment
+* Jenkins CI/CD
+* High Availability Design
+
+### Technologies
+
+AWS • Docker • Kubernetes • Jenkins • Terraform
+
+---
+
+## 🛡 CloudSentinel
+
+ML-Based Intrusion & Anomaly Detection Platform
+
+### Features
+
+* Intrusion Detection
+* Containerized Deployment
+* Cloud Monitoring
+* Kubernetes Orchestration
+
+### Technologies
+
+AWS • Docker • Kubernetes • CloudWatch • Python
+
+---
+
+## 🔐 DevSecOps Pipeline
+
+End-to-End Secure CI/CD Pipeline
+
+### Features
+
+* Jenkins Automation
+* Docker Build Pipelines
+* Terraform Provisioning
+* IAM-Based Access Control
+* Secrets Management
+
+### Technologies
+
+Jenkins • Docker • Terraform • AWS • GitHub
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amruthswamywork\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amruthswamywork\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amruthswamywork\&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+* Kubernetes Production Deployments
+* AWS Architecture Design
+* Terraform Enterprise Workflows
+* DevSecOps Automation
+* Site Reliability Engineering
+* Cloud Native Technologies
+
+---
+
+# 🤝 Connect With Me
+
+### 📧 Email
+
+[amruthswamy11@gmail.com](mailto:amruthswamy11@gmail.com)
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/amruthswamycp079/
+
+### 💻 GitHub
+
+https://github.com/amruthswamywork
+
+### 🌐 Portfolio
+
+https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
+
+---
+
+<div align="center">
+
+### "Automate Everything. Monitor Everything. Improve Continuously."
+
+⭐ Building reliable cloud infrastructure one deployment at a time.
+
+</div>
