@@ -196,20 +196,6 @@ Jenkins • Docker • Terraform • AWS • GitHub
 
 ---
 
-# 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amruthswamywork\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amruthswamywork\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amruthswamywork\&theme=tokyonight)
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 * Kubernetes Production Deployments
